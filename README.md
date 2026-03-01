@@ -74,41 +74,4 @@ PHM_PCA_HMM/
 └── README.md
 ```
 
----
 
-## ⁕ Technologies Used
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- hmmlearn
-
----
-
-## ⁕ Objective
-
-To build a modular and explainable health monitoring system capable of:
-
-- Modeling degradation behavior
-- Identifying health states
-- Estimating Remaining Useful Life
-- Supporting predictive maintenance decisions
-
----
-
-## ⁕ Team Members
-
-- Karthik K Jash
-- R Harishanker
-- Bharat Krishna
-
----
-
-## ⁕ Future Work
-
-- Implement constrained left-right topology
-- Compare with regression-based RUL models
-- Improve state interpretability
-- Deploy as real-time monitoring framework
